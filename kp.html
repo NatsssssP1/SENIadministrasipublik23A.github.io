@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kebijakan Publik - Absensi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 50px auto;
+            padding: 20px;
+            width: 300px;
+        }
+        select, input[type="submit"] {
+            display: block;
+            margin: 20px auto;
+            padding: 10px;
+            width: 80%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Kebijakan Publik - Absensi</h1>
+        <form>
+            <label for="pertemuan1">Pertemuan 1</label>
+            <select id="pertemuan1" name="pertemuan1">
+                <option value="">Select one option</option>
+                <option value="hadir">Hadir</option>
+                <option value="izin">Izin</option>
+                <option value="absen">Absen</option>
+            </select>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+</body>
+</html>
