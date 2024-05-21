@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar Mata Kuliah</title>
+</head>
+<body>
+    <h1>Daftar Mata Kuliah</h1>
+    <ul>
+        <li><a href="kebijakan-publik/index.html">Kebijakan Publik</a></li>
+        <li><a href="hukum-administrasi-publik/index.html">Hukum Administrasi Publik</a></li>
+        <li><a href="sistem-sosial-budaya-indonesia/index.html">Sistem Sosial Budaya Indonesia</a></li>
+        <li><a href="sistem-politik-indonesia/index.html">Sistem Politik Indonesia</a></li>
+        <li><a href="sistem-administrasi-publik/index.html">Sistem Administrasi Publik</a></li>
+        <li><a href="e-government/index.html">E-Government</a></li>
+    </ul>
+</body>
+</html>
